@@ -1,4 +1,4 @@
-# Wireshark-Traffic-Anaysis-Lab-
+# Wireshark-Traffic-Analysis-Lab-
 This project documents a beginner Wireshark traffic analysis lab focused on capturing, filtering, and analyzing real network traffic.
 The goal of the lab was to build foundational packet analysis skills commonly used in:
 
